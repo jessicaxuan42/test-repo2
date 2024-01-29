@@ -10,3 +10,6 @@ I will use this GitHub profile to showcase my data science skills.
 - Python 
 - Data Science
 - travlling
+  
+git config --global user.name "<your_name>"
+git config --global user.email "<your_email>"
