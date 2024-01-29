@@ -9,4 +9,4 @@ I will use this GitHub profile to showcase my data science skills.
 
 - Python 
 - Data Science
-- trvalling
+- travlling
